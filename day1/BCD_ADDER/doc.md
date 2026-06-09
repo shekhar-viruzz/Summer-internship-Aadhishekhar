@@ -54,13 +54,6 @@ It uses a **Ripple Carry Adder + correction logic**.
 | 0110 | 0101 | 0 | 1011 | Yes | 0001 | 1 | Overflow case |
 | 1001 | 1001 | 0 | 10010 | Yes | 1001 | 1 | Maximum case |
 
----
-
-## 📈 Output Waveform
-
-
-::contentReference[oaicite:1]{index=1}
-
 
 ---
 
