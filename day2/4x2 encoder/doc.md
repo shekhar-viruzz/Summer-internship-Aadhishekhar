@@ -56,13 +56,6 @@ If no input is active, output defaults to 00.
 
 ---
 
-## 📈 Output Waveform
-
-
-::contentReference[oaicite:0]{index=0}
-
-
----
 
 ## 📊 Waveform Explanation
 
