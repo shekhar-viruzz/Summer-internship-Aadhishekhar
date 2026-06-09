@@ -1,3 +1,4 @@
+<img width="1372" height="657" alt="Screenshot 2026-06-09 214018" src="https://github.com/user-attachments/assets/404512f5-55ac-4154-93fa-815856ae3d04" />
 4-bit Ripple Carry Adder (Verilog HDL)
 📌 Overview
 
