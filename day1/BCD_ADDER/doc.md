@@ -73,17 +73,5 @@ It uses a **Ripple Carry Adder + correction logic**.
 
 ---
 
-## 🚀 Applications
-
-- Digital calculators
-- Financial systems
-- Embedded decimal arithmetic
-- FPGA design
-
----
-
-## 👨‍💻 Author
-
-Name – GitHub link  
 Simulation Waveform Output<img width="1512" height="832" alt="Screenshot 2026-06-09 214656" src="https://github.com/user-attachments/assets/c0d5c671-e2c4-43c6-8d47-d5546b3b3787" />
 
