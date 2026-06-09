@@ -94,13 +94,6 @@ Each mode defines how data is shifted or loaded:
 
 ---
 
-## 📈 Output Waveform
-
-
-::contentReference[oaicite:0]{index=0}
-
-
----
 
 ## 📊 Waveform Explanation
 
