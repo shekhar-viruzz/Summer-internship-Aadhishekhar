@@ -68,22 +68,6 @@ The output changes immediately because this is a **combinational circuit**.
 
 ---
 
-## 🚀 Applications
-
-- Digital systems
-- Data compression
-- Microprocessor design
-- Address encoding
-- FPGA design projects
-
----
-
-## 👨‍💻 Author
-
-- Name: Your Name  
-- GitHub: https://github.com/yourusername  
-
----
 
 ## 📜 License
 
