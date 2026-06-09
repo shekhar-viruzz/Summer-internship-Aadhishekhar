@@ -57,14 +57,6 @@ At every **positive clock edge**:
 
 ---
 
-## 📈 Output Waveform
-
-
-::contentReference[oaicite:0]{index=0}
-
-
----
-
 ## 📊 Waveform Explanation
 
 - On **reset = 1**, Q becomes 0 immediately  
