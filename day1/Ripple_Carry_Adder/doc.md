@@ -56,13 +56,6 @@ Carry output of one stage feeds the next stage.
 
 ---
 
-## 📈 Output Waveform
-
-
-::contentReference[oaicite:0]{index=0}
-
-
----
 
 ## 📊 Waveform Explanation
 
