@@ -47,7 +47,6 @@ always #5 clk_tb = ~clk_tb;
 
 initial
 begin
-    // Active-low reset
     arstn_tb     = 0;
     wrenb_tb     = 0;
     wraddress_tb = 3'b000;
@@ -57,9 +56,7 @@ begin
     #10;
     arstn_tb = 1;
 
-    // -------------------
-    // WRITE OPERATION
-    // -------------------
+  
     wrenb_tb = 1;
 
     wraddress_tb = 3'd0; data_in_tb = 8'h11; #10;
@@ -71,9 +68,6 @@ begin
     wraddress_tb = 3'd6; data_in_tb = 8'h77; #10;
     wraddress_tb = 3'd7; data_in_tb = 8'h88; #10;
 
-    // -------------------
-    // READ OPERATION
-    // -------------------
     wrenb_tb = 0;
 
     rdaddress_tb = 3'd0; #10;
