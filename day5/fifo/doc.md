@@ -331,5 +331,6 @@ The same interface can be reused in:
 
 ---
 <img width="1172" height="277" alt="Screenshot 2026-06-14 130515" src="https://github.com/user-attachments/assets/ff84e713-f0b6-4523-927e-3bf19716eb90" />
+<img width="786" height="555" alt="Screenshot 2026-06-14 141326" src="https://github.com/user-attachments/assets/e1e12279-f13b-498d-95e9-6cd9140c69f6" />
 
 
