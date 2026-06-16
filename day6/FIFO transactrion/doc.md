@@ -222,11 +222,9 @@ WR=1 RD=0 DATA_IN=24
 
 ## 🧪 Sample Output
 
-
+Transaction Randomized -> WR:1 | RD:0 | DATA_IN:12 Transaction Randomized -> WR:0 | RD:1 | DATA_IN:0 Transaction Randomized -> WR:1 | RD:0 | DATA_IN:37 Transaction Randomized -> WR:0 | RD:1 | DATA_IN:0
 ```
-<img width="1003" height="527" alt="Screenshot 2026-06-16 215554" src="https://github.com/user-attachments/assets/72b32cc0-aa50-4ffb-86a9-9b82048f20ba" />
-
----
+<img width="1003" height="527" alt="Screenshot 2026-06-16 215554" src="https://github.com/user-attachments/assets/e38ecc6f-d226-4b35-903a-bcf1aaf1b741" />
 
 ## 📦 FIFO DUT Overview
 
