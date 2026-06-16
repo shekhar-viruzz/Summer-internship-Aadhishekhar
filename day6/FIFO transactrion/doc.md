@@ -222,10 +222,9 @@ WR=1 RD=0 DATA_IN=24
 
 ## 🧪 Sample Output
 
-```text
-<img width="1003" height="527" alt="image" src="https://github.com/user-attachments/assets/1da84fcd-13a7-4433-81c0-a41558100325" />
 
 ```
+<img width="1003" height="527" alt="Screenshot 2026-06-16 215554" src="https://github.com/user-attachments/assets/72b32cc0-aa50-4ffb-86a9-9b82048f20ba" />
 
 ---
 
