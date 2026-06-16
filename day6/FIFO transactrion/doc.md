@@ -223,13 +223,8 @@ WR=1 RD=0 DATA_IN=24
 ## 🧪 Sample Output
 
 ```text
-Transaction Randomized -> WR:1 | RD:0 | DATA_IN:12
+<img width="1003" height="527" alt="image" src="https://github.com/user-attachments/assets/1da84fcd-13a7-4433-81c0-a41558100325" />
 
-Transaction Randomized -> WR:0 | RD:1 | DATA_IN:0
-
-Transaction Randomized -> WR:1 | RD:0 | DATA_IN:37
-
-Transaction Randomized -> WR:0 | RD:1 | DATA_IN:0
 ```
 
 ---
@@ -273,8 +268,9 @@ Additional fields and constraints can be added without modifying the DUT.
 ### Better Coverage
 
 Random stimulus helps uncover corner cases that directed testing may miss.
-<img width="1003" height="527" alt="image" src="https://github.com/user-attachments/assets/1da84fcd-13a7-4433-81c0-a41558100325" />
 
 
-GitHub: https://github.com/yourusername
+
+
+
 
